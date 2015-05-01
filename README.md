@@ -5,4 +5,5 @@ Start pack for webpack frontend projects, based on Webpack with Babel and contro
 $ git clone https://github.com/netgusto/webpack-frontend-startpack MyProject
 $ cd MyProject
 $ rm -Rf .git
+$ npm install
 ```
